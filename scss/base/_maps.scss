@@ -1,0 +1,21 @@
+$social: ( 
+    youtube: #b00,
+    facebook: #3b5998,
+    instagram: brown,
+
+    bg-premium: gold,
+    bg-standar:  green,
+    border-r: 4px,
+
+);
+
+.tituloh2 {
+    background-color: map-get($social, bg-premium);
+}
+
+.tituloh3 {
+    background-color: map-get($social, bg-standar);
+    border-radius: map-get($social, border-r);
+}
+
+

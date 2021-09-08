@@ -1,0 +1,11 @@
+@mixin colores {
+    border: 2px  solid black;
+    padding: 20px;
+    border-radius: yellowgreen;
+    
+}
+
+.footer-principal {
+@include colores;
+
+}

@@ -1,0 +1,67 @@
+body {
+    background-color: yellowgreen;
+}
+
+.tituloh1 {
+    color: black;
+    background-color: khaki;
+    margin-bottom: 10%;
+    font-family: 'Times New Roman', Times, serif;     
+    transition: all 3s;
+     
+}
+
+.tituloh1:hover {
+    transform: scale(1,5);
+}
+
+
+
+.tituloh2 {
+    color: red;
+    text-decoration:none;
+    margin-bottom: 2%;
+    font-family: 'Times New Roman', Times, serif;
+ 
+}
+
+.parrafo-principal {
+    color: black;
+    transition: all 3s;
+
+}
+
+.parrafo-principal:hover {
+    transform: scale(1,5);
+
+}
+
+
+.tituloh3 {
+    color: red;
+    margin-bottom: 1% solid;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+}
+
+
+.video-amarok {
+    justify-content: center;
+    padding-right: 50%;
+}
+
+.color-de-fondo {
+    background-color:  khaki;
+}
+
+.h4-mapa {
+    color: red;
+    margin-bottom: 1% solid;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+}
+
+.footer-principal {
+    background-color: khaki;
+    justify-content: center;
+}

@@ -1,0 +1,71 @@
+.tituloh2 {
+  text-decoration: none;
+  margin-bottom: 2%;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.tituloh3 {
+  color: red;
+  margin-bottom: 1% solid;
+  font-family: "Times New Roman", Times, serif;
+  justify-content: center;
+}
+
+.h4-mapa {
+  color: red;
+  margin-bottom: 1% solid;
+  font-family: "Times New Roman", Times, serif;
+  justify-content: center;
+}
+
+.color-de-fondo {
+  background-color: khaki;
+}
+
+.parrafo-principal {
+  color: black;
+  border-radius: 2px solid;
+  transition: all 3s;
+}
+
+.parrafo-principal:hover {
+  transform: scale(1, 5);
+}
+
+.tituloh2 {
+  background-color: gold;
+}
+
+.tituloh3 {
+  background-color: green;
+  border-radius: 4px;
+}
+
+.footer-principal {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: yellowgreen;
+}
+
+body {
+  background-color: yellow;
+  border-radius: 2px solid white;
+}
+
+.titulo-h1 {
+  background-color: tomato;
+  margin-bottom: 10%;
+  font-family: courier;
+  transition: all 3s;
+}
+
+.tituloh1:hover {
+  transform: scale(1, 5);
+}
+
+.footer-principal {
+  background-color: khaki;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=style.css.map */

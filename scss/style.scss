@@ -1,0 +1,31 @@
+@import "../scss/base/listas";
+@import "../scss/base/variables";
+@import "../scss/base/operaciones";
+@import "../scss/base/titulos";
+@import "../scss/base/maps";
+@import "../scss/base/extends";
+@import "../scss/base/mixins";
+
+body {
+    background-color: $bg-color-pincipal;
+    border-radius: $border-html;
+}
+
+.titulo-h1 {
+    background-color: $bg-color-secunbdario;
+    $color: black;
+    margin-bottom: 10%;
+  font-family: $font-family;
+  transition: all 3s;
+
+}
+
+.tituloh1:hover {
+    transform: scale(1,5);
+}
+
+.footer-principal {
+    background-color: khaki;
+    justify-content: center;
+}
+
